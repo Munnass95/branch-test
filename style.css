@@ -1,0 +1,104 @@
+h1{
+    font-size: 40px;
+
+}
+#banner{
+    background-image: url(images/top-banner.png);
+    background-size: cover;
+}
+#mern1{
+    font-size: 25px;
+    font-weight: 600;
+    color: green;
+}
+#mern2{
+    font-size: 25px;
+    font-weight: 600;
+    color:darksalmon;
+}
+#mern3{
+    font-size: 25px;
+    font-weight: 600;
+    color:deepskyblue
+}
+#mern4{
+    font-size: 25px;
+    font-weight: 600;
+    color:rgb(160, 201, 79)
+}
+.nij{
+    font-size: 40px;
+    color:brown;
+}
+.first{
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 5%;
+    float: left;
+    text-align: left;
+
+}
+
+.first img{
+    width: 50%;
+    border: 2px solid green;
+    border-radius: 100%;
+    
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.box-1{
+    font-size: 25px;
+    text-align: center;  
+
+}
+ul{
+    border: 2px solid red;
+    border-radius: 20%;
+    display:inline-block;
+    margin-left: 18%;
+    margin-right: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    float: left;
+    width: 18%;
+   
+}
+ol{
+    border: 2px solid red;
+    border-radius: 20%;
+    display:inline-block;
+    margin-left:2%;
+    margin-right: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    width: 18%;
+    float:left;
+}
+li{
+    font-size: 20px;
+}
+#box{
+    width: 100%;
+}
+
+#chithi{
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 37%;
+    margin-right: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    width: 18%;
+}
+.contact{
+    text-align: right;
+   
+}
